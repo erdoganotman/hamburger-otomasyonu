@@ -1,0 +1,6 @@
+C:\Users\erdog\source\repos\Hamburger\EntitiyLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\erdog\source\repos\Hamburger\EntitiyLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\erdog\source\repos\Hamburger\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\erdog\source\repos\Hamburger\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdog\source\repos\Hamburger\EntitiyLayer\obj\Debug\EntitiyLayer.dll
+C:\Users\erdog\source\repos\Hamburger\EntitiyLayer\obj\Debug\EntitiyLayer.pdb

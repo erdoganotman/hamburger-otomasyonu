@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="otmansteakhouseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="siparis">
+    <Key>
+      <PropertyRef Name="siparis_id" />
+    </Key>
+    <Property Name="siparis_id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="siparis_adı" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="siparis_ucreti" Type="Int64" />
+    <Property Name="Siparis_adeti" Type="Int64" />
+    <Property Name="masano" Type="Int64" />
+  </EntityType>
+  <EntityContainer Name="otmansteakhouseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="siparis" EntityType="Self.siparis" />
+  </EntityContainer>
+</Schema>

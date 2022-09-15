@@ -1,0 +1,14 @@
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\erdog\source\repos\Hamburger\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

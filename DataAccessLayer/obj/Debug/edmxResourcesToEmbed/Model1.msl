@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="otmansteakhouseModelStoreContainer" CdmEntityContainer="otmansteakhouseEntities">
+    <EntitySetMapping Name="siparis">
+      <EntityTypeMapping TypeName="otmansteakhouseModel.siparis">
+        <MappingFragment StoreEntitySet="siparis">
+          <ScalarProperty Name="siparis_id" ColumnName="siparis_id" />
+          <ScalarProperty Name="siparis_adı" ColumnName="siparis_adı" />
+          <ScalarProperty Name="siparis_ucreti" ColumnName="siparis_ucreti" />
+          <ScalarProperty Name="Siparis_adeti" ColumnName="Siparis_adeti" />
+          <ScalarProperty Name="masano" ColumnName="masano" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
